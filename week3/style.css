@@ -1,0 +1,35 @@
+body {
+
+    background-color: black;
+    text-align: center;
+    background-image: url(images/gundam3.jpg);
+    background-size: 1800px;
+}
+
+h1{ 
+  
+    color: black(217, 255, 0);
+    background-color: white;
+    width: 30%;
+    border: 5px solid black;
+    text-align: center;
+    padding: 100px;
+    margin: 100px;
+    
+  
+}
+
+p{
+
+color: blue;
+font-weight: bold;
+font-size: 30px;
+text-decoration: underline;
+font-style: italic;
+font-family: Arial;
+text-align: center;
+
+
+
+
+}
